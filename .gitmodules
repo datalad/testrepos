@@ -1,0 +1,3 @@
+[submodule "basic/r1"]
+	path = basic/r1
+	url = git://github.com/datalad/testrepo--basic--r1
